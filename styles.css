@@ -2365,3 +2365,11 @@ button {
     height: 220px;
   }
 }
+
+/* Original Figma breadcrumb icon for education information pages. */
+.figma-measured:is([data-node-id="1:3517"], [data-node-id="1:3539"], [data-node-id="1:3561"], [data-node-id="1:3583"], [data-node-id="1:3602"], [data-node-id="1:3626"], [data-node-id="1:3646"], [data-node-id="1:3678"], [data-node-id="1:3708"], [data-node-id="1:3760"], [data-node-id="1:3794"], [data-node-id="1:3824"], [data-node-id="1:3858"], [data-node-id="1:3894"], [data-node-id="1:3933"], [data-node-id="1:3959"], [data-node-id="1:3981"], [data-node-id="1:4001"], [data-node-id="1:4026"], [data-node-id="1:4046"], [data-node-id="1:4068"], [data-node-id="1:4090"], [data-node-id="1:4112"], [data-node-id="1:4134"]) [data-name="Breadcrump arrow"] {
+  background: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNyIgaGVpZ2h0PSIxMSIgdmlld0JveD0iMCAwIDcgMTEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik03IDUuNUwxLjE2NjY3IDExTDAgOS45TDQuNjY2NjcgNS41TDAgMS4xTDEuMTY2NjcgMEw3IDUuNVoiIGZpbGw9IiM2MjYyNjIiLz4KPC9zdmc+Cg==") center / contain no-repeat;
+}
+.figma-measured:is([data-node-id="1:3517"], [data-node-id="1:3539"], [data-node-id="1:3561"], [data-node-id="1:3583"], [data-node-id="1:3602"], [data-node-id="1:3626"], [data-node-id="1:3646"], [data-node-id="1:3678"], [data-node-id="1:3708"], [data-node-id="1:3760"], [data-node-id="1:3794"], [data-node-id="1:3824"], [data-node-id="1:3858"], [data-node-id="1:3894"], [data-node-id="1:3933"], [data-node-id="1:3959"], [data-node-id="1:3981"], [data-node-id="1:4001"], [data-node-id="1:4026"], [data-node-id="1:4046"], [data-node-id="1:4068"], [data-node-id="1:4090"], [data-node-id="1:4112"], [data-node-id="1:4134"]) [data-name="Breadcrump arrow"] > * {
+  visibility: hidden;
+}
